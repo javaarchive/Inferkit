@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+transformers
+pix2tex[api]
